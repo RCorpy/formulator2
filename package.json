@@ -3,11 +3,6 @@
   "version": "0.7.0",
   "description": "Expense Tracker Stackathon Project using Electron.js D3 and React Hooks",
   "author": "Danny Berger",
-  "homepage": "https://github.com/KungoJung/expense-tracker-electron",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/KungoJung/expense-tracker-electron.git"
-  },
   "license": "none",
   "main": "main.js",
   "scripts": {
